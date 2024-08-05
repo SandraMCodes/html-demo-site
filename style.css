@@ -214,7 +214,7 @@
       filter: contrast(150%);
     }
     
-    .article-heading {
+   article .article-heading {
       display: flex;
       justify-content: flex-start;
     }
